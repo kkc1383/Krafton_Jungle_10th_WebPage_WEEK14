@@ -29,7 +29,6 @@ Krafton_Jungle_10th_WebPage_WEEK14/
 │   └── static/
 │       ├── games/                    # 임베디드 WebGL 게임들
 │       │   ├── alicepang/            # Alice Pang
-│       │   ├── AntCompany/           # Ant Company 게임
 │       │   └── watermelon/           # 수박 게임
 │       └── images/                   # 정적 이미지 파일
 │
