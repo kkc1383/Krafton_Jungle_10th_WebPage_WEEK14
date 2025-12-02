@@ -28,9 +28,9 @@ Krafton_Jungle_10th_WebPage_WEEK14/
 │   ├── create_sample_posts.py        # 샘플 게임 게시글 생성 스크립트
 │   └── static/
 │       ├── games/                    # 임베디드 WebGL 게임들
-│       │   ├── alicepang/            # Alice Pang (모바일 퍼즐 게임)
+│       │   ├── alicepang/            # Alice Pang
 │       │   ├── AntCompany/           # Ant Company 게임
-│       │   └── watermelon/           # 수박 게임 (Three.js)
+│       │   └── watermelon/           # 수박 게임
 │       └── images/                   # 정적 이미지 파일
 │
 └── README.md                         # 프로젝트 문서
