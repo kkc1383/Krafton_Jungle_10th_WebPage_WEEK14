@@ -59,11 +59,6 @@ Krafton_Jungle_10th_WebPage_WEEK14/
 - **카테고리 필터링**: 카테고리별 게시글 분류
 - **댓글 시스템**: 게시글에 댓글 작성 및 삭제
 
-### 포함된 게임
-- **Alice Pang**: 모바일 퍼즐 게임
-- **Ant Company**: Unity 기반 시뮬레이션 게임
-- **Watermelon Game**: Three.js 기반 수박 게임
-
 ### 사용자 기능
 - 프로필 이미지 설정
 - 비밀번호 변경
