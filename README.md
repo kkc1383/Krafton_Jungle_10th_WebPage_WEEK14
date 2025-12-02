@@ -8,7 +8,8 @@
 - `board-backend/` - FastAPI 백엔드
 
 ## 웹페이지 스크린샷
-  <img width="994" height="542" alt="image" src="https://github.com/user-attachments/assets/a3127303-e413-4e60-8f31-c4b804923a6b" />
+  <img width="994" height="542" alt="image" src="https://github.com/user-attachments/assets/aa1b5d2d-1e95-4ed2-9c31-6fd4e78095f4" />
+
 
 
 ## 주요 기능
