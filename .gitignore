@@ -1,0 +1,64 @@
+# Node modules
+node_modules/
+**/node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+.pytest_cache/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.claude/settings.local.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build outputs
+dist/
+build/
+*.egg
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Coverage
+coverage/
+.nyc_output/
+
+# Misc
+.cache/
+.parcel-cache/
+
+# Unity WebGL Game Resources (large binary files)
+board-backend/static/games/*/Build/
+board-backend/static/games/*/StreamingAssets/
+board-backend/static/games/*/TemplateData/
+board-backend/static/images/
+my-board/public/images/
+my-board/public/*.png
+my-board/public/*.jpg
+static/
+
+# Keep index.html files for games
+!board-backend/static/games/*/index.html
